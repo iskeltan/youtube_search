@@ -8,6 +8,10 @@
     youtube = Youtube()
     results = youtube.search('keyword')
 
+## Flask
+    cd example/
+    python example.py
+
 ## Settings ##
 
     11. developer_key = "<your developer key>'
@@ -20,5 +24,4 @@
 
 
 ### TODO ###
-- example project (flask or django)
 - other search parameters (e.g. category, published date)
