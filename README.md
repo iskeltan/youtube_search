@@ -1,7 +1,7 @@
 # Youtube Search API #
 ## Requirements Installation
 
-    pip install --upgrade google-api-python-client
+    pip install --r requirements.txt
 
 ## Usage ##
     from youtube import Youtube
@@ -9,7 +9,7 @@
     results = youtube.search('keyword')
 
 ## Flask
-    cd example/
+    cd example_project/
     python example.py
 
 ## Settings ##
