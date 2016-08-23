@@ -8,6 +8,13 @@
     youtube = Youtube()
     results = youtube.search('keyword')
 
+## Settings ##
+
+    11. developer_key = "<your developer key>'
+    ...
+    13.  self.max_results = <result per page>
+    ---
+    17. self.max_page = <number of pages>
 
 ----------
 
